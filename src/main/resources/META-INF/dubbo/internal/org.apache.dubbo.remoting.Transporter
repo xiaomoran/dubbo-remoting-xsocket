@@ -1,0 +1,1 @@
+xSocket=org.apache.dubbo.remoting.transport.xsocket.XsocketTransporter
